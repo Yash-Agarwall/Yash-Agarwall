@@ -31,7 +31,6 @@ I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **D
 ###  GitHub Stats
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Agarwall&theme=radical) 
 
 ---
 
