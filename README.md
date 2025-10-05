@@ -1,7 +1,7 @@
 # Hi, I’m Yash Agarwal 👋
 
 ### 💻 About Me
-I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **DSA and full-stack web development**. I actively participate in hackathons and contribute to **open-source projects like GSSoC 2025 and Hacktoberfest 2025**.  
+I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **DSA, App development and full-stack web development**. I actively participate in hackathons and contribute to **open-source projects like GSSoC 2025 and Hacktoberfest 2025**.  
 
 ---
 
