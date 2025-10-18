@@ -8,7 +8,7 @@ I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **D
 ### 🛠️ Skills
 **Languages:**  
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 **Frontend / Frameworks:**  
