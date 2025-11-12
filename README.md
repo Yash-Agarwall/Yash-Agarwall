@@ -32,7 +32,7 @@ I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **D
 
 ### 📊 GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats-yash-agarwals-projects-2149b2a0.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Yash's GitHub stats](https://github-readme-stats-yash-agarwals-projects-2149b2a0.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)
 
 
 
