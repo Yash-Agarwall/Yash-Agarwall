@@ -1,11 +1,9 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=170&section=header&text=Yash%20Agarwal&fontSize=38&fontColor=0f2027&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Yash%20Agarwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   />
 </p>
-
-
 
 <p align="center">
   <b>2nd-year B.Tech CST @ IIEST Shibpur</b> <br/>
@@ -103,8 +101,6 @@ I enjoy building things that are **clean, scalable, and impactful**.
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"
   />
 </p>
-
-
