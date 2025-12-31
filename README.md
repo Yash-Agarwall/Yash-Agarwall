@@ -1,9 +1,10 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=Yash%20Agarwal&fontSize=38&fontColor=ffffff&animation=fadeIn"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=170&section=header&text=Yash%20Agarwal&fontSize=38&fontColor=0f2027&animation=fadeIn&fontAlignY=35"
   />
 </p>
+
 
 
 <p align="center">
@@ -101,8 +102,9 @@ I enjoy building things that are **clean, scalable, and impactful**.
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=footer"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"
   />
 </p>
+
 
