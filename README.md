@@ -31,6 +31,13 @@ I actively participate in hackathons and contribute to **open-source programs li
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall
+&theme=gruvbox
+&hide_border=true
+&stroke=EBDBB2
+&ring=FABD2F
+&fire=FB4934
+&currStreakLabel=FE8019)
 
 ### 🤝 Connect with Me
 
