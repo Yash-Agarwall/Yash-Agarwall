@@ -1,55 +1,106 @@
-# Hi, I’m Yash Agarwal 👋
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Yash%20Agarwal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
+</p>
 
-### 💻 About Me
-I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **DSA, App Development, and Full-Stack Web Development**.  
-I actively participate in hackathons and contribute to **open-source programs like GSSoC 2025 and Hacktoberfest 2025**.
+<p align="center">
+  <b>2nd-year B.Tech CST @ IIEST Shibpur</b> <br/>
+  DSA • App Development • Full-Stack Web
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/to-yash-agarwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yash-Agarwall">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+## 👋 About Me
 
-### 🛠️ Skills
+I’m a **2nd-year B.Tech CST student at IIEST Shibpur**, currently focused on  
+**DSA, App Development, and Full-Stack Web Development**.
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I actively participate in **hackathons** and contribute to  
+**open-source programs like GSSoC 2025 and Hacktoberfest 2025**.
 
-**Frontend / Frameworks:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+I enjoy building things that are **clean, scalable, and impactful**.
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+---
+
+## 🛠️ Skills
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+### 🎨 Frontend / Frameworks
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
 ## 📈 GitHub Contributions
 
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox"
-  referrerpolicy="no-referrer"
-/>
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox"
+    referrerpolicy="no-referrer"
+  />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night)
-
-
-
----
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-yash-agarwal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash-Agarwall)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night"
+  />
+</p>
 
 ---
 
-> *Keep learning, keep building, and never stop growing.*
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/to-yash-agarwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yash-Agarwall">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Keep learning, keep building, and never stop growing.</i>
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"
+  />
+</p>
