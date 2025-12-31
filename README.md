@@ -1,7 +1,8 @@
 # Hi, I’m Yash Agarwal 👋
 
 ### 💻 About Me
-I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **DSA, App development and full-stack web development**. I actively participate in hackathons and contribute to **open-source projects like GSSoC 2025 and Hacktoberfest 2025**.  
+I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **DSA, App Development, and Full-Stack Web Development**.  
+I actively participate in hackathons and contribute to **open-source programs like GSSoC 2025 and Hacktoberfest 2025**.
 
 ---
 
@@ -29,20 +30,23 @@ I’m a 2nd-year B.Tech CST student at **IIEST Shibpur**, currently learning **D
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
 
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Agarwall&theme=radical)
 
----
-
-###  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-yash-agarwal) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Agarwall)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
 
 ---
 
-> Keep learning, keep building, and never stop growing. 
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-yash-agarwal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash-Agarwall)
+
+---
+
+> *Keep learning, keep building, and never stop growing.*
