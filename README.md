@@ -6,16 +6,6 @@ I actively participate in hackathons and contribute to **open-source programs li
 
 ---
 
-## 📈 GitHub Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night)
-
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox"
-  referrerpolicy="no-referrer"
-/>
-
----
 
 ### 🛠️ Skills
 
@@ -43,6 +33,18 @@ I actively participate in hackathons and contribute to **open-source programs li
 
 ---
 
+## 📈 GitHub Contributions
+
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox"
+  referrerpolicy="no-referrer"
+/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night)
+
+
+
+---
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-yash-agarwal)
