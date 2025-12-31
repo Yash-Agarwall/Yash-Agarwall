@@ -32,20 +32,6 @@ I actively participate in hackathons and contribute to **open-source programs li
 
 ---
 
-### 📊 GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yash-Agarwall&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
-
----
-
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/to-yash-agarwal)
