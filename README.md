@@ -40,6 +40,10 @@ I actively participate in hackathons and contribute to **open-source programs li
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yash-Agarwall&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yash-Agarwall&layout=compact&theme=radical)
+
 ---
 
 ### 🤝 Connect with Me
