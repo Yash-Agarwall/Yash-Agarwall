@@ -10,8 +10,6 @@ I actively participate in hackathons and contribute to **open-source programs li
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox&cache_seconds=21600)
-
 <img
   src="https://nirzak-streak-stats.vercel.app/?user=Yash-Agarwall&theme=gruvbox"
   referrerpolicy="no-referrer"
