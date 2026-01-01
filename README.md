@@ -74,6 +74,7 @@ I enjoy building things that are **clean, scalable, and impactful**.
   />
 </p>
 
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Agarwall&theme=tokyo-night"
