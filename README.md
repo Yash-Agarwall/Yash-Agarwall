@@ -82,19 +82,6 @@ I enjoy building things that are **clean, scalable, and impactful**.
 
 ---
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/to-yash-agarwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yash-Agarwall">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Keep learning, keep building, and never stop growing.</i>
 </p>
